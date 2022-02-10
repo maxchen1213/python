@@ -1,0 +1,11 @@
+print("I'm Eric\nHe is \"cool\"")
+print(200*200)
+print(type(3333333))
+name=input("please enter name")
+print(name)
+x=input("請輸入身高")
+print(name,"",x, "CM")
+x=input("please enter weight")
+print(name,x,"kg")
+x=2
+print(x)
