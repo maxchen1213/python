@@ -12,5 +12,6 @@ elif scoreone <60 and scoretwo <60:
     print('要處罰')
 else:
     print('再加油')
-
+x=input ('123')
+print('x')
 
